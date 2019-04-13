@@ -1,2 +1,6 @@
 markdown:   kramdown
+<<<<<<< HEAD
 style:  davewhipp
+=======
+style:  tt
+>>>>>>> master
